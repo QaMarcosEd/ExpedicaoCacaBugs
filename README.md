@@ -17,8 +17,6 @@ Cada bug encontrado foi documentado com detalhes, seguindo um padrão de registr
 - **Captura de Tela/Video**
 - **Impacto e Prioridade**
 
-Todos os relatórios podem ser encontrados na pasta `reports/`.
-
 ## 🌐 Sites Testados
 
 1. **Nubank**: Testes focados em navegação e responsividade.
@@ -27,12 +25,7 @@ Todos os relatórios podem ser encontrados na pasta `reports/`.
 ## 🛠 Tecnologias e Ferramentas Utilizadas
 
 - Testes Manuais
-- Gherkin (para escrever cenários de teste)
 - Navegadores: Chrome, Firefox, Edge
-
-## 🚀 Como Visualizar
-
-Os relatórios estão disponíveis no formato `.pdf` e `.md` na pasta correspondente. Capturas de tela e vídeos de cada bug estão disponíveis na pasta `evidencias/`.
 
 ## 🤝 Agradecimentos
 

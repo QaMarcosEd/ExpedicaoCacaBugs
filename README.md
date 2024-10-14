@@ -1,6 +1,6 @@
 # Bug Hunting Competition 🐞
 
-Este repositório contém os relatórios de bugs e os cenários de testes manuais realizados durante a competição de Caça Bugs organizada pela Daki Code.
+Este repositório contém os relatórios de bugs e os cenários de testes manuais realizados durante a competição de Caça Bugs organizada pela Flash Code.
 
 ## 📋 Sobre a Competição
 
